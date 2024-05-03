@@ -1,0 +1,21 @@
+name=["ritika","gandhali","ayan","sachin","laptop"]
+objects=["table","chair","fan"]
+# # name.append(objects)
+# # print(name)
+
+# name.extend(objects)
+# print(name)
+# name.pop()
+# print(name)
+# name.remove("ayan")
+# print(name)
+# objects.insert(2,"bottle")
+# print(objects)
+# name.clear()
+# print(name)
+name.reverse()
+print(name)
+name.sort()
+print(name)
+name.sort(reverse=True)
+print(name)
